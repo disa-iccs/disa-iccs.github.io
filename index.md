@@ -2,73 +2,23 @@
 layout: post
 ---
 
-**The workshop on Computational methods for emerging problems in disinformation analysis DISA@ESORICS is organized during the [29th European Symposium on Research in Computer Security (ESORICS) 2024]([https://conferences.sigappfr.org/dsaa2023/](https://esorics2024.org/)) in Bydgoszcz, Poland.**
+**The workshop on Computational methods for emerging problems in disinformation analysis DISA@ESORICS is organized during the [30th European Symposium on Research in Computer Security (ESORICS) 2025](https://esorics2025.sciencesconf.org/) in Toulouse, France.**
 
-**The session will be technically endorsement by [IEEE SMC TC on Big Data Computing](http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing) as well by [Lifelong Machine Learning on Data Stream](https://www.kssk.pwr.edu.pl/projects/lmlds) and [SWAROG](http://swarog-ai.pl/) projects.**
+**The session will be technically endorsed by [IEEE SMC TC on Big Data Computing](http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing) as well by [Lifelong Machine Learning on Data Stream](https://www.kssk.pwr.edu.pl/projects/lmlds) and [SWAROG](http://swarog-ai.pl/) projects.**
 
 # About
 
-Information analysis is nowadays crucial for societies, single citizens in their everyday life (e.g., while traveling, shopping, browsing, communication, etc.), as well for businesses and the overall economy. The right to be informed is one of the fundamental requirements for making the right decisions on a small and large scale (e.g., elections). However, information spreading can also be used for disinformation. The problem of fake news publication is not new, and it already has been reported in ancient ages, but it has started having a huge impact, especially on social media users or people watching media news (Internet, newspapers, TV, etc.). Such false information should be detected as soon as possible to avoid its negative influence on the readers and, in some cases, their decisions.
+Information analysis is nowadays crucial for societies, single citizens in their everyday lives (e.g., while traveling, shopping, browsing, communicating, etc.), as well for businesses and the overall economy. The right to be informed is one of the fundamental requirements for making the right decisions on a small and large scale (e.g., elections). However, information spreading can also be used for disinformation. The problem of fake news publication is not new, and it already has been reported in ancient ages, but it has started having a huge impact, especially on social media users or people watching media news (Internet, newspapers, TV, etc.). Such false information should be detected as soon as possible to avoid its negative influence on the readers and, in some cases, their decisions.
 
 
-<!--
-# Online meeting
 
-The joint sessions <em>“Classifier Learning from Difficult Data”</em> and <em>“Computational Methods for Emerging Problems in (dis-)Information Analysis </em>” will take place on June 4th, 2020. The CLD2 and DIS-A workshops will take place via the zoom.us platform. Joining will be possible 15 minutes before the start of the meeting, which is at 8:45 AM (GMT + 2).
-
-
-You can join via the following [hyperlink](https://pwr-edu.zoom.us/j/91255889567?pwd=K2c1Z0F4ZTA4b1JvZVgxZjlXRUVZdz09), or by using the *join a meeting* function and providing the following data:
-- Meeting ID: 912 5588 9567
-
-Passwords were sent directly to each of the sessions participants.
-If you have any questions, please contact [Paweł Ksieniewicz](mailto:pawel.ksieniewicz@pwr.edu.pl) or [Paweł Zyblewski](mailto:pawel.zyblewski@pwr.edu.pl).
-
-Best regards and take care!
-
-Michał Choraś and Michał Woźniak
-
-
-# Meeting schedule
-
-The meeting schedule of CLD2 and DIS-A workshops is as follows
-
-
-| Time        | Event           |Paper ID|
-| ------------- |:-------------|---:|
-| 9:00 – 9:10 |	<strong>Invitation and opening <em>(Michał Choraś, Michał Woźniak)</em></strong> |
-|9:10 – 10:00 |	<strong>Keynote talk <em>(chair:  Prof. Michał Woźniak)</em></strong>|
-||<strong>Prof. Michal Choraś<br>Current challenges in ML/AI: security, explainability and fairness</strong>|
-|10:20-12:00| <strong>Session 1 <em>(chair: Prof. Olgierd Unold)</em></strong>|
-||Paweł Teisseyre, Jan Mielniczuk and Małgorzata Łazęcka<br> Different strategies of fitting logistic regression for positive and unlabelled data|97 |
-||Dariusz Sychel, Przemysław Klęsk and Aneta Bera<br> Branch-and-Bound Search for Training Cascades of Classifiers|132|
-||Mariusz Topolski<br> Application of the stochastic gradient method in the construction of the main components of PCA in the task diagnosis of multiple sclerosis in children|516|
-||Wojciech Wieczorek, Olgierd Unold, Łukasz Strąk and Arkadiusz Nowakowski<br> Grammatical Inference by Answer Set Programming|128|
-||Magda Friedjungová, Daniel Vašata, Maksym Balatsko and Marcel Jiřina<br> Missing Features Reconstruction Using a Wasserstein Generative Adversarial Imputation Network|192|
-|12:20-14:00| <strong>Session 2 <em>(chair: Dr. Paweł Ksieniewicz)</em></strong>|
-||Pawel Zyblewski and Michal Wozniak<br> Dynamic Classifier Selection for data with skewed class distribution using Imbalance Ratio and Euclidean distance|184|
-||Jan Brabec, Tomas Komarek, Vojtech Franc and Lukas Machlica<br> On Model Evaluation under Non-constant Class Imbalance|237|
-||Pawel Trajdos and Marek Kurzynski<br> A Correction Method of a Base Classifier Applied to Imbalanced Data Classification|347|
-||Paweł Ksieniewicz<br> Standard Decision Boundary in a support-domain of fuzzy classifier prediction for the task of imbalanced data classification|359|
-||Jakub Klikowski and Michal Wozniak<br> Employing One-class SVM Classifier Ensemble for Imbalanced Data Stream Classification|559|
-|14:20-16:00| <strong>Session 3 <em>(chair: Prof. Tomasz Andrysiak)</em></strong>
-||Paweł Ksieniewicz and Robert Burduk<br> Clustering and Weighted Scoring in Geometric Space Support Vector Machine Ensemble for Highly Imbalanced Data Classification|629|
-||Michał Żak and Michał Woźniak<br> Performance Analysis of Binarization Strategies for Multi-Class Imbalanced Data Classification|661|
-||Paweł Ksieniewicz, Róża Goścień, Mirosław Klinkowski and Krzysztof Walkowiak<br> Pattern recognition model to aid the optimization of Dynamic Spectrally-Spatially Flexible Optical Networks|639|
-||Tomasz Andrysiak and Łukasz Saganowski<br> Maintenance and Security System for PLC Railway LED Sign Communication Infrastructure|490|
-||Jakub Nowak, Taras Holotyak, Marcin Korytkowski, Rafal Scherer and Sviatsolav Voloshynovskiy<br> Behavioral Biometric User Authentication from URL Logs|522|
-|16:20-18:00| <strong>Session 4 <em>(chair: Prof. Michał Choraś)</em></strong>
-||Marek Pawlicki, Rafal Kozik and Witold Holubowicz<br> On the impact of network data balancing in cybersecurity applications|99|
-||Sebastian Kula, Michał Choraś, Rafał Kozik, Pawel Ksieniewicz and Michał Wozniak<br> Sentiment Analysis for Fake News Detection by Means of Neural Networks|362|
-||Roman Englert and Jörg Muschiol<br> Syntactic and Semantic Bias Detection and Countermeasures|25|
-||Amir Ebrahimi Fard, Majid Mohammadi and Bartel van de Walle<br> Detecting Rumours in Disasters: An Imbalanced Learning Approach|90|
--->
 
 # Topics of interest
 
 The main aim of this workshop is to bring together researchers and scientists who are pioneering (dis-)information analysis methods to discuss problems and solutions in this area, identify new issues, and shape future research directions. 
-We particulary invite works focuses on:
+We particularly invite works focus on:
 
-- computational methods for (dis-) information analysis, especially in heterogenous types of data (images, text, tweets etc.)
+- computational methods for (dis-) information analysis, especially in heterogenous data types (images, text, tweets etc.)
 - detection of fake news detection in social media
 - images and video manipulation recognition
 - architectural frameworks and design for (dis-)information detection
@@ -76,7 +26,7 @@ We particulary invite works focuses on:
 - adversarial attacks on information analysis
 - explainability of deep learning
 - learning how to detect the fake news in the presence of concept drift
-- learning how to detect the fake news with limited ground truth access and on the basis of limited data sets, including one-shot learning
+- learning how to detect fake news with limited ground truth access and based on limited data sets, including one-shot learning
 - proposing how to compare and benchmark the fake news detectors
 - case studies and real-world applications
 - human rights, legal and societal aspects of (dis-)information detection, including data protection and GDPR in practice
@@ -85,10 +35,10 @@ We particulary invite works focuses on:
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | 30 June 2024 |
-| Notification to authors | 17 July 2024 |
-| Camera-ready papers | 19 August 2024 |
-| Conference sessions | 16-20 September 2024 |
+| Paper submission | 30 June 2025 |
+| Notification to authors | 17 July 2025 |
+| Camera-ready papers | 19 August 2025 |
+| Conference sessions | 22-26 September 2025 |
 
 <!--
 | Author registration | 15 March – 5 April 2021 |
@@ -107,10 +57,6 @@ e-mail: michal.choras@pbs.edu.pl
 <li>
 Prof. Rafał Kozik, Bydgoszcz University of Science and Technology, Poland 
 e-mail: rkozik@pbs.edu.pl
-</li>
-<li>
-Prof. Paweł Ksieniewicz, Wrocław University of Science and Technology, Poland, 
- e-mail: pawel.ksieniewicz@pwr.edu.pl
 </li>
 <li>
 Prof. Michał Woźniak, Wroclaw University of Science and Technology, Poland
@@ -199,6 +145,7 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
   </li>
 </ul>
 
+<!--
 # Conference program
 
 10:45 - 12:15
