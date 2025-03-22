@@ -4,7 +4,7 @@ layout: post
 
 **The workshop on Computational methods for emerging problems in disinformation analysis DISA@ESORICS is organized during the [30th European Symposium on Research in Computer Security (ESORICS) 2025](https://esorics2025.sciencesconf.org/) in Toulouse, France.**
 
-**The session will be technically endorsed by [IEEE SMC TC on Big Data Computing](http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing) as well by [Lifelong Machine Learning on Data Stream](https://www.kssk.pwr.edu.pl/projects/lmlds) and [SWAROG](http://swarog-ai.pl/) projects.**
+**The session will be technically endorsed by [IEEE SMC TC on Big Data Computing](http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing) as well by [SWAROG](http://swarog-ai.pl/) projects.**
 
 # About
 
