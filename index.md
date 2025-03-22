@@ -55,7 +55,7 @@ Michał Choraś, Bydgoszcz University of Science and Technology, Poland
 e-mail: michal.choras@pbs.edu.pl
 </li>
 <li> 
-Xin Jin, Yunnan University, China
+Xin Jin, Yunnan University, China 
  e-mail: xinxin_jin@163.com
 </li>
 <li>
