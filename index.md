@@ -51,23 +51,23 @@ We particularly invite works focus on:
 
 <ul>
 <li>
-Prof. Michał Choraś, Bydgoszcz University of Science and Technology, Poland
+Michał Choraś, Bydgoszcz University of Science and Technology, Poland
 e-mail: michal.choras@pbs.edu.pl
 </li>
 <li> 
- Dr Xin Jin, Yunnan University, China
+Xin Jin, Yunnan University, China
  e-mail: xinxin_jin@163.com
 </li>
 <li>
-Prof. Rafał Kozik, Bydgoszcz University of Science and Technology, Poland 
+Rafał Kozik, Bydgoszcz University of Science and Technology, Poland 
 e-mail: rkozik@pbs.edu.pl
 </li>
 <li>
-Prof. Paweł Ksieniewicz, Wrocław University of Science and Technology, Poland
+Paweł Ksieniewicz, Wrocław University of Science and Technology, Poland
 e-mail: pawel.ksieniewicz@pwr.edu.pl
 </li>
  <li>
-Prof. Michał Woźniak, Wroclaw University of Science and Technology, Poland
+Michał Woźniak, Wroclaw University of Science and Technology, Poland
 e-mail: michal.wozniak@pwr.edu.pl
 </li>
 
