@@ -85,7 +85,7 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
 </li>
  
  <li>
-    Sebastian Basterrech, VSB-Technical University of Ostrava, Czech Republic
+    Sebastian Basterrech, Technical University of Denmark, Denmark
 </li>
  <li>
     Robert Burduk, Wroclaw University of Science and Technology, Poland
