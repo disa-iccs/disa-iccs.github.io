@@ -35,9 +35,9 @@ We particularly invite works focus on:
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | 30 May 2025 |
-| Notification to authors | 30 June 2025 |
-| Camera-ready papers | 18 July 2025 |
+| Paper submission | 30 June 2025 |
+| Notification to authors | 20 July 2025 |
+| Camera-ready papers | 1 August 2025 |
 | Conference sessions | 22-26 September 2025 |
 
 <!--
@@ -46,6 +46,13 @@ We particularly invite works focus on:
 | Non-author late registration | from 24 April 2021 |
 -->
 
+# How to submit your paper
+
+Submitted papers must follow the LNCS template from the time they are submitted. Submitted papers should be at most 16 pages (using 10-point font), excluding the bibliography and well-marked appendices, and at most 20 pages total. Committee members are not required to read the appendices, so the paper should be intelligible without them. All submissions must be written in English. Submissions must be uploaded to the following EasyChair website:
+
+https://easychair.org/conferences/?conf=esorics2025
+
+Only pdf files will be accepted. 
 
 # Workshop chairs
 
