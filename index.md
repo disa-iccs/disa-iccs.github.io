@@ -50,7 +50,7 @@ We particularly invite works focus on:
 
 Submitted papers must follow the LNCS template from the time they are submitted. Submitted papers should be at most 16 pages (using 10-point font), excluding the bibliography and well-marked appendices, and at most 20 pages total. Committee members are not required to read the appendices, so the paper should be intelligible without them. All submissions must be written in English. Submissions must be uploaded to the following EasyChair website:
 
-https://easychair.org/conferences/?conf=esorics2025
+[https://easychair.org/conferences/?conf=esorics2025](https://easychair.org/conferences/?conf=esorics2025)
 
 Only pdf files will be accepted. 
 
