@@ -35,8 +35,8 @@ We particularly invite works focus on:
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | 30 June 2025 |
-| Notification to authors | 20 July 2025 |
+| Paper submission | 11 July 2025 |
+| Notification to authors | 25 July 2025 |
 | Camera-ready papers | 1 August 2025 |
 | Conference sessions | 22-26 September 2025 |
 
